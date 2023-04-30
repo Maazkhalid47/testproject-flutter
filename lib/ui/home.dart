@@ -63,7 +63,7 @@ class Scaffoldexample extends StatelessWidget {
         items: const <BottomNavigationBarItem>[
           
           BottomNavigationBarItem(
-            backgroundColor:Colors.black,
+            
             icon: Icon(Icons.home), //home
             label: 'Home',
           ),
